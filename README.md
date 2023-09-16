@@ -31,7 +31,7 @@
 ## Overview
 
 
-![screenshot](https://github.com/Anbavi/404-NotFound/blob/Anbavi/404-Not-Found/414x667.png)
+![screenshot](https://github.com/Anbavi/404-NotFound/blob/Anbavi/404-Not-Found/414x667_1.png?raw=true)
 - 414x736
 
 
