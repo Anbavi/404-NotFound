@@ -1,0 +1,21 @@
+#contenedor {
+  display: grid;
+  grid-template-areas:
+    "a a a"
+    "b b b"
+    "c c c";
+  row-gap: 10px;
+  column-gap: 10px;
+}
+#nav {
+  grid-area: a;
+}
+#secundario {
+  grid-area: b;
+}
+
+#pie {
+  grid-area: c;
+}
+
+
