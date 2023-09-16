@@ -31,11 +31,11 @@
 ## Overview
 
 
-![screenshot](https://github.com/Anbavi/404-NotFound/blob/Anbavi/404-Not-Found/1300x700.png?raw=true)
+![screenshot](https://github.com/Anbavi/404-NotFound/blob/Anbavi/404-Not-Found/1300x700.png)
 - 1300x
 
 
 
-![screenshot](https://github.com/Anbavi/404-NotFound/blob/Anbavi/404-Not-Found/414x667.png?raw=true)
+![screenshot](https://github.com/Anbavi/404-NotFound/blob/Anbavi/404-Not-Found/414x667.png)
 - 414x736
 
