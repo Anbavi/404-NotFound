@@ -35,10 +35,10 @@
 ## Overview
 
 - 1300x
-![screenshot]([https://github.com/Anbavi/404-Not-Found/blob/master/2023-09-16_21h53_43.png?raw=true]
+![screenshot](https://github.com/Anbavi/404-NotFound/blob/Anbavi/404-Not-Found/1300x700.png?raw=true)
 
 - 414x736
-![screenshot](https://github.com/Anbavi/404-Not-Found/blob/master/2023-09-16_21h49_40.png?raw=true)]
+![screenshot](https://github.com/Anbavi/404-NotFound/blob/Anbavi/404-Not-Found/414x667.png?raw=true)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
