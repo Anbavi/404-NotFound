@@ -36,7 +36,7 @@
 
 
 
-![screenshot]![image](https://github.com/Anbavi/404-NotFound/assets/88192441/d9992104-78b5-4011-87d3-26d1e17b4481)
+![screenshot](https://github.com/Anbavi/404-NotFound/assets/88192441/d9992104-78b5-4011-87d3-26d1e17b4481)
 - 1300x
 
 
